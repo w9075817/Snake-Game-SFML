@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\a_har\OneDrive - Teesside University\Algorithms for Games\C++ for Games\SnakeGame\SnakeGame\Game.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+C:\Users\a_har\OneDrive - Teesside University\Algorithms for Games\C++ for Games\SnakeGame\SnakeGame\Snake.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  SnakeGame.vcxproj -> C:\Users\a_har\OneDrive - Teesside University\Algorithms for Games\C++ for Games\SnakeGame\x64\Debug\SnakeGame.exe
